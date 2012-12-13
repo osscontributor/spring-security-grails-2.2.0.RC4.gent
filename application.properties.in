@@ -1,0 +1,5 @@
+#Grails Metadata file
+#${now}
+app.grails.version=2.2.0.RC4
+app.name=${name}
+app.version=0.1
